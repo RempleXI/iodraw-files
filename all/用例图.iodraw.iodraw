@@ -217,8 +217,8 @@
             <mxPoint x="1670" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-105" value="购买作品" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=1;fillColor=default;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="720" width="70" height="30" as="geometry" />
+        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-105" value="查看订单" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=1;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1030" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
