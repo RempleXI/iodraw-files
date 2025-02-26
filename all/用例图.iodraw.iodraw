@@ -63,7 +63,7 @@
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-17" value="管理非管理员账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="630" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endWidth=13.333333333333334;endSize=7.633333333333334;" edge="1" parent="1" source="a2MxJZLrxR7Ur3z5ZT9l-17" target="a2MxJZLrxR7Ur3z5ZT9l-5">
+        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endWidth=13.333333333333334;endSize=2.255555555555555;width=4.166666666666667;" edge="1" parent="1" source="a2MxJZLrxR7Ur3z5ZT9l-17" target="a2MxJZLrxR7Ur3z5ZT9l-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="630" as="sourcePoint" />
             <mxPoint x="770" y="580" as="targetPoint" />
