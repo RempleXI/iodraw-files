@@ -57,7 +57,7 @@
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-16" value="管理非管理员账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="630" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-17" value="管理非管理员账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-17" value="管理非管理员账号" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;fillColor=default;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="630" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=6.064814814814814;endSize=2.702777777777778;width=4.166666666666667;" edge="1" parent="1" source="a2MxJZLrxR7Ur3z5ZT9l-17" target="a2MxJZLrxR7Ur3z5ZT9l-5">
@@ -112,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-42" value="注册" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;fillColor=default;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="940" y="570" width="40" height="30" as="geometry" />
+          <mxGeometry x="942.5" y="620" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-43" value="审核" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;fillColor=default;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="520" width="30" height="20" as="geometry" />
