@@ -19,7 +19,7 @@
         </object>
         <object label="VIP&lt;div&gt;买家&lt;/div&gt;" id="a2MxJZLrxR7Ur3z5ZT9l-2">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=1;gradientColor=none;strokeColor=default;fontColor=default;" vertex="1" parent="1">
-            <mxGeometry x="1660" y="690" width="30" height="60" as="geometry" />
+            <mxGeometry x="1660" y="695" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="买家" id="a2MxJZLrxR7Ur3z5ZT9l-3">
@@ -211,7 +211,7 @@
             <mxPoint x="1660" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-104" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a2MxJZLrxR7Ur3z5ZT9l-91">
+        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-104" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a2MxJZLrxR7Ur3z5ZT9l-91" target="a2MxJZLrxR7Ur3z5ZT9l-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1210" y="890" as="sourcePoint" />
             <mxPoint x="1670" y="720" as="targetPoint" />
