@@ -9,7 +9,7 @@
         </mxCell>
         <object label="&lt;div&gt;普通&lt;/div&gt;管理员" id="Yd78QTMnt0xLIezIOJvq-1">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;gradientColor=none;strokeColor=default;fontColor=default;" parent="1" vertex="1">
-            <mxGeometry x="550" y="700" width="30" height="60" as="geometry" />
+            <mxGeometry x="550" y="690" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="超级&lt;div&gt;管理员&lt;/div&gt;" id="a2MxJZLrxR7Ur3z5ZT9l-1">
@@ -92,7 +92,7 @@
             <mxPoint x="1579" y="1109" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-79" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="a2MxJZLrxR7Ur3z5ZT9l-35">
+        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-79" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Yd78QTMnt0xLIezIOJvq-1" target="a2MxJZLrxR7Ur3z5ZT9l-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="690" as="sourcePoint" />
             <mxPoint x="620" y="622" as="targetPoint" />
