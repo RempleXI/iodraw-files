@@ -13,7 +13,7 @@
           </mxCell>
         </object>
         <object label="Actor" id="a2MxJZLrxR7Ur3z5ZT9l-1">
-          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;" vertex="1" parent="1">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;gradientColor=none;strokeColor=default;fontColor=none;noLabel=1;" vertex="1" parent="1">
             <mxGeometry x="560" y="830" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
