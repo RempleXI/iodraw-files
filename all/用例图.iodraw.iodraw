@@ -48,7 +48,7 @@
             <mxPoint x="680" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;gradientColor=none;strokeColor=default;fontColor=none;noLabel=1;" vertex="1" parent="1">
+        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-13" value="像素&lt;div&gt;设计师&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;gradientColor=none;strokeColor=default;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="900" y="1100" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;gradientColor=none;strokeColor=default;fontColor=none;noLabel=1;" vertex="1" parent="1">
@@ -71,9 +71,6 @@
             <mxPoint x="700" y="700" as="sourcePoint" />
             <mxPoint x="740" y="715" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-29" value="像素&lt;div&gt;设计师&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="885" y="1153" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-30" value="游客" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="1190" y="440" width="50" height="30" as="geometry" />
