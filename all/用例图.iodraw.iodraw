@@ -19,7 +19,7 @@
         </object>
         <object label="VIP&lt;div&gt;买家&lt;/div&gt;" id="a2MxJZLrxR7Ur3z5ZT9l-2">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;gradientColor=none;strokeColor=default;fontColor=default;" vertex="1" parent="1">
-            <mxGeometry x="1660" y="610" width="30" height="60" as="geometry" />
+            <mxGeometry x="1660" y="710" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="买家" id="a2MxJZLrxR7Ur3z5ZT9l-3">
@@ -153,6 +153,9 @@
         </mxCell>
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-58" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;fillColor=default;gradientColor=none;rotation=-50;" connectable="0" vertex="1" parent="a2MxJZLrxR7Ur3z5ZT9l-57">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-60" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="790" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
