@@ -18,12 +18,12 @@
           </mxCell>
         </object>
         <object label="VIP&lt;div&gt;买家&lt;/div&gt;" id="a2MxJZLrxR7Ur3z5ZT9l-2">
-          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;gradientColor=none;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=1;gradientColor=none;strokeColor=default;fontColor=default;" vertex="1" parent="1">
             <mxGeometry x="1660" y="690" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="买家" id="a2MxJZLrxR7Ur3z5ZT9l-3">
-          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;gradientColor=none;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=1;gradientColor=none;strokeColor=default;fontColor=default;" vertex="1" parent="1">
             <mxGeometry x="1660" y="970" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
@@ -57,7 +57,7 @@
             <mxPoint x="865.79" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-58" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;fillColor=default;gradientColor=none;rotation=0;" connectable="0" vertex="1" parent="a2MxJZLrxR7Ur3z5ZT9l-57">
+        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-58" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=1;fillColor=default;gradientColor=none;rotation=0;" connectable="0" vertex="1" parent="a2MxJZLrxR7Ur3z5ZT9l-57">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" y="10" as="offset" />
           </mxGeometry>
