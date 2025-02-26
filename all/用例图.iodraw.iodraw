@@ -28,10 +28,7 @@
           </mxCell>
         </object>
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-5" value="管理账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="610" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a2MxJZLrxR7Ur3z5ZT9l-6" target="a2MxJZLrxR7Ur3z5ZT9l-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="730" y="610" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-6" value="管理非管理员账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="660" width="60" height="30" as="geometry" />
