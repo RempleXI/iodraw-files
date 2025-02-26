@@ -7,7 +7,7 @@
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-4" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="470" width="720" height="620" as="geometry" />
         </mxCell>
-        <object label="管理员" id="Yd78QTMnt0xLIezIOJvq-1">
+        <object label="&lt;div&gt;普通&lt;/div&gt;管理员" id="Yd78QTMnt0xLIezIOJvq-1">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;gradientColor=none;strokeColor=default;fontColor=default;" parent="1" vertex="1">
             <mxGeometry x="550" y="610" width="30" height="60" as="geometry" />
           </mxCell>
@@ -70,12 +70,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="700" as="sourcePoint" />
             <mxPoint x="740" y="715" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=6.064814814814814;endSize=2.702777777777778;width=4.166666666666667;" edge="1" parent="1" source="a2MxJZLrxR7Ur3z5ZT9l-1" target="Yd78QTMnt0xLIezIOJvq-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="750" as="sourcePoint" />
-            <mxPoint x="575.48" y="757.94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=6.064814814814814;endSize=2.702777777777778;width=4.166666666666667;" edge="1" parent="1" source="a2MxJZLrxR7Ur3z5ZT9l-2" target="a2MxJZLrxR7Ur3z5ZT9l-3">
