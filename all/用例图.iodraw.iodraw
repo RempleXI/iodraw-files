@@ -27,8 +27,8 @@
             <mxGeometry x="1330" y="830" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-5" value="管理账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="610" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
