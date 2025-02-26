@@ -8,12 +8,12 @@
           <mxGeometry x="600" y="470" width="720" height="790" as="geometry" />
         </mxCell>
         <object label="&lt;div&gt;普通&lt;/div&gt;管理员" id="Yd78QTMnt0xLIezIOJvq-1">
-          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;gradientColor=none;strokeColor=default;fontColor=default;" parent="1" vertex="1">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=1;gradientColor=none;strokeColor=default;fontColor=default;" parent="1" vertex="1">
             <mxGeometry x="550" y="650" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="超级&lt;div&gt;管理员&lt;/div&gt;" id="a2MxJZLrxR7Ur3z5ZT9l-1">
-          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;gradientColor=none;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=1;gradientColor=none;strokeColor=default;fontColor=default;" vertex="1" parent="1">
             <mxGeometry x="550" y="510" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
@@ -30,10 +30,10 @@
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-5" value="账号管理" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=1;fillColor=default;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="485" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-13" value="像素&lt;div&gt;设计师&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;gradientColor=none;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-13" value="像素&lt;div&gt;设计师&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=1;gradientColor=none;strokeColor=default;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="550" y="875" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-15" value="游客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;gradientColor=none;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-15" value="游客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=1;gradientColor=none;strokeColor=default;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1660" y="470" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-35" value="登录" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=1;fillColor=default;gradientColor=none;" vertex="1" parent="1">
