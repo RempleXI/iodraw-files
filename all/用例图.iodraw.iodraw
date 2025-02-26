@@ -9,7 +9,7 @@
         </mxCell>
         <object label="&lt;div&gt;普通&lt;/div&gt;管理员" id="Yd78QTMnt0xLIezIOJvq-1">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;gradientColor=none;strokeColor=default;fontColor=default;" parent="1" vertex="1">
-            <mxGeometry x="550" y="670" width="30" height="60" as="geometry" />
+            <mxGeometry x="550" y="700" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="超级&lt;div&gt;管理员&lt;/div&gt;" id="a2MxJZLrxR7Ur3z5ZT9l-1">
@@ -71,13 +71,13 @@
             <mxPoint x="1660" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-75" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="a2MxJZLrxR7Ur3z5ZT9l-35" target="a2MxJZLrxR7Ur3z5ZT9l-2">
+        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-75" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="a2MxJZLrxR7Ur3z5ZT9l-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="718" y="670" as="sourcePoint" />
-            <mxPoint x="1610" y="770" as="targetPoint" />
+            <mxPoint x="1660" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-76" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="a2MxJZLrxR7Ur3z5ZT9l-35" target="a2MxJZLrxR7Ur3z5ZT9l-3">
+        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-76" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a2MxJZLrxR7Ur3z5ZT9l-35" target="a2MxJZLrxR7Ur3z5ZT9l-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="719" y="639" as="sourcePoint" />
             <mxPoint x="1670" y="748" as="targetPoint" />
