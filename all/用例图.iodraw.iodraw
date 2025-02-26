@@ -30,7 +30,7 @@
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-5" value="账号管理" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;fillColor=default;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="642.5" y="670" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Yd78QTMnt0xLIezIOJvq-1">
+        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Yd78QTMnt0xLIezIOJvq-1" target="a2MxJZLrxR7Ur3z5ZT9l-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="690" as="sourcePoint" />
             <mxPoint x="656.2962593100038" y="625.3925985103995" as="targetPoint" />
@@ -110,8 +110,8 @@
             <mxPoint x="1" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-69" value="账号管理" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;fillColor=default;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="652.5" y="680" width="70" height="30" as="geometry" />
+        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-69" value="权限管理" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="625" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
