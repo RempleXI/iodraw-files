@@ -52,7 +52,7 @@
           <mxGeometry x="900" y="1100" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-15" value="游客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;gradientColor=none;strokeColor=default;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="390" width="30" height="60" as="geometry" />
+          <mxGeometry x="1120" y="380" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-16" value="管理非管理员账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="630" width="60" height="30" as="geometry" />
