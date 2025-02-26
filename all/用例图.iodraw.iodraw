@@ -31,7 +31,7 @@
           <mxGeometry x="800" y="690" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-6" value="管理非管理员账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="660" width="60" height="30" as="geometry" />
+          <mxGeometry x="680" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-7" value="管理管理员账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="710" width="60" height="30" as="geometry" />
