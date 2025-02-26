@@ -15,7 +15,7 @@
           </mxCell>
         </object>
         <object label="Actor" id="a2MxJZLrxR7Ur3z5ZT9l-2">
-          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;overflow=hidden;" vertex="1" parent="1">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;overflow=visible;" vertex="1" parent="1">
             <mxGeometry x="1330" y="640" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
@@ -24,6 +24,9 @@
             <mxGeometry x="1330" y="830" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
