@@ -9,12 +9,12 @@
         </mxCell>
         <object label="管理员" id="Yd78QTMnt0xLIezIOJvq-1">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;gradientColor=none;strokeColor=default;fontColor=default;" parent="1" vertex="1">
-            <mxGeometry x="550" y="560" width="30" height="60" as="geometry" />
+            <mxGeometry x="550" y="610" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="超级&lt;div&gt;管理员&lt;/div&gt;" id="a2MxJZLrxR7Ur3z5ZT9l-1">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=0;gradientColor=none;strokeColor=default;fontColor=default;" vertex="1" parent="1">
-            <mxGeometry x="550" y="750" width="30" height="60" as="geometry" />
+            <mxGeometry x="550" y="790" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="VIP&lt;div&gt;买家&lt;/div&gt;" id="a2MxJZLrxR7Ur3z5ZT9l-2">
