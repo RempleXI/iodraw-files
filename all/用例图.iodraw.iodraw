@@ -162,9 +162,6 @@
         <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-49" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;fillColor=default;gradientColor=none;" connectable="0" vertex="1" parent="a2MxJZLrxR7Ur3z5ZT9l-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a2MxJZLrxR7Ur3z5ZT9l-50" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;fillColor=default;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="700" width="30" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
