@@ -32,7 +32,7 @@
         </mxCell>
         <mxCell id="o2MLRPSAi5gB5LFQdLi5-22" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o2MLRPSAi5gB5LFQdLi5-5">
           <mxGeometry x="-0.3138" y="-3" relative="1" as="geometry">
-            <mxPoint x="-7" y="-3" as="offset" />
+            <mxPoint x="3" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2MLRPSAi5gB5LFQdLi5-6" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -70,6 +70,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="390" as="sourcePoint" />
             <mxPoint x="370" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2MLRPSAi5gB5LFQdLi5-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o2MLRPSAi5gB5LFQdLi5-12">
+          <mxGeometry x="0.3538" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2MLRPSAi5gB5LFQdLi5-13" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o2MLRPSAi5gB5LFQdLi5-6" target="o2MLRPSAi5gB5LFQdLi5-4">
