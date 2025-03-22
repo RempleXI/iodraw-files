@@ -13,6 +13,11 @@
             <mxPoint x="440" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="o2MLRPSAi5gB5LFQdLi5-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o2MLRPSAi5gB5LFQdLi5-2">
+          <mxGeometry x="0.1707" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="o2MLRPSAi5gB5LFQdLi5-3" value="购买" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="190" width="100" height="80" as="geometry" />
         </mxCell>
