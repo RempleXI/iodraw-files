@@ -119,10 +119,16 @@
         <mxCell id="vZqfpPR-QLA4xvfOLN-l-2" value="存储" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="390" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vZqfpPR-QLA4xvfOLN-l-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="o2MLRPSAi5gB5LFQdLi5-4">
+        <mxCell id="vZqfpPR-QLA4xvfOLN-l-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vZqfpPR-QLA4xvfOLN-l-2" target="o2MLRPSAi5gB5LFQdLi5-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="400" as="sourcePoint" />
             <mxPoint x="740" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZqfpPR-QLA4xvfOLN-l-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vZqfpPR-QLA4xvfOLN-l-1" target="vZqfpPR-QLA4xvfOLN-l-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="540" as="sourcePoint" />
+            <mxPoint x="660" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
