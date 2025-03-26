@@ -113,8 +113,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vZqfpPR-QLA4xvfOLN-l-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="vZqfpPR-QLA4xvfOLN-l-1" value="分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="435" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
