@@ -74,17 +74,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o2MLRPSAi5gB5LFQdLi5-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="o2MLRPSAi5gB5LFQdLi5-8" target="o2MLRPSAi5gB5LFQdLi5-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="440" as="sourcePoint" />
-            <mxPoint x="620" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o2MLRPSAi5gB5LFQdLi5-26" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="o2MLRPSAi5gB5LFQdLi5-15" vertex="1" connectable="0">
-          <mxGeometry x="-0.3389" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="o2MLRPSAi5gB5LFQdLi5-27" value="权限" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="630" width="120" height="60" as="geometry" />
         </mxCell>
