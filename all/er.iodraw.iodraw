@@ -364,8 +364,14 @@
             <mxPoint x="870" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2RKI8XyUCIyQH_pughd6-25" value="内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2RKI8XyUCIyQH_pughd6-25" value="评论时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="630" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2RKI8XyUCIyQH_pughd6-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="vZqfpPR-QLA4xvfOLN-l-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="650" as="sourcePoint" />
+            <mxPoint x="400" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
