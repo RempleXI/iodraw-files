@@ -49,7 +49,7 @@
         </mxCell>
         <mxCell id="o2MLRPSAi5gB5LFQdLi5-19" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="o2MLRPSAi5gB5LFQdLi5-10" vertex="1" connectable="0">
           <mxGeometry x="0.1559" y="1" relative="1" as="geometry">
-            <mxPoint x="10" y="-11" as="offset" />
+            <mxPoint x="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2MLRPSAi5gB5LFQdLi5-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="o2MLRPSAi5gB5LFQdLi5-7" target="o2MLRPSAi5gB5LFQdLi5-4" edge="1">
@@ -367,7 +367,7 @@
         <mxCell id="2RKI8XyUCIyQH_pughd6-25" value="评论时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="630" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2RKI8XyUCIyQH_pughd6-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="vZqfpPR-QLA4xvfOLN-l-26">
+        <mxCell id="2RKI8XyUCIyQH_pughd6-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2RKI8XyUCIyQH_pughd6-25" target="vZqfpPR-QLA4xvfOLN-l-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="650" as="sourcePoint" />
             <mxPoint x="400" y="600" as="targetPoint" />
