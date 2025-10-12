@@ -280,10 +280,15 @@
         <mxCell id="13ggRFuJZxvYeAbbDywr-76" value="D3&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="13ggRFuJZxvYeAbbDywr-74">
           <mxGeometry width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-77" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="13ggRFuJZxvYeAbbDywr-77" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="13ggRFuJZxvYeAbbDywr-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="160" as="sourcePoint" />
             <mxPoint x="1010" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13ggRFuJZxvYeAbbDywr-78" value="上传素材请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="13ggRFuJZxvYeAbbDywr-77">
+          <mxGeometry x="-0.2056" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
