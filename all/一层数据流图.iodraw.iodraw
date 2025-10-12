@@ -22,9 +22,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-8" value="其他系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="13ggRFuJZxvYeAbbDywr-8" edge="1">
+        <mxCell id="13ggRFuJZxvYeAbbDywr-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="13ggRFuJZxvYeAbbDywr-8" edge="1" source="13ggRFuJZxvYeAbbDywr-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="350" as="sourcePoint" />
             <mxPoint x="610" y="330" as="targetPoint" />
@@ -32,17 +32,6 @@
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-43" value="权限信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="13ggRFuJZxvYeAbbDywr-11" vertex="1" connectable="0">
           <mxGeometry x="-0.0645" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="13ggRFuJZxvYeAbbDywr-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="300" as="sourcePoint" />
-            <mxPoint x="650" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-41" value="权限信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="13ggRFuJZxvYeAbbDywr-40" vertex="1" connectable="0">
-          <mxGeometry x="-0.2651" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
