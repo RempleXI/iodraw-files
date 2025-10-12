@@ -206,6 +206,11 @@
             <mxPoint x="1130" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="13ggRFuJZxvYeAbbDywr-62" value="支付信息确认" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="13ggRFuJZxvYeAbbDywr-59">
+          <mxGeometry x="-0.1487" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
