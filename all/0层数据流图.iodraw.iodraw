@@ -190,20 +190,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-65" value="素材分类系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="13ggRFuJZxvYeAbbDywr-49" target="13ggRFuJZxvYeAbbDywr-65" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1150" y="220" as="sourcePoint" />
-            <mxPoint x="1200" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-67" value="分类标签更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="13ggRFuJZxvYeAbbDywr-66" vertex="1" connectable="0">
-          <mxGeometry x="0.1413" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="13ggRFuJZxvYeAbbDywr-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="450" as="sourcePoint" />
@@ -253,6 +239,20 @@
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-78" value="上传素材请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="13ggRFuJZxvYeAbbDywr-77" vertex="1" connectable="0">
           <mxGeometry x="-0.2056" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iVESfcen4lxA7AjWACuq-1" value="素材分类系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iVESfcen4lxA7AjWACuq-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="iVESfcen4lxA7AjWACuq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="200" as="sourcePoint" />
+            <mxPoint x="1200" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iVESfcen4lxA7AjWACuq-3" value="分类标签更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iVESfcen4lxA7AjWACuq-2">
+          <mxGeometry x="0.1413" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
