@@ -242,33 +242,31 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iVESfcen4lxA7AjWACuq-1" value="素材分类系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="90" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iVESfcen4lxA7AjWACuq-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="iVESfcen4lxA7AjWACuq-4" target="iVESfcen4lxA7AjWACuq-1" edge="1">
+        <mxCell id="iVESfcen4lxA7AjWACuq-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="iVESfcen4lxA7AjWACuq-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="210" as="sourcePoint" />
-            <mxPoint x="610" y="180" as="targetPoint" />
+            <mxPoint x="650" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iVESfcen4lxA7AjWACuq-3" value="分类标签更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iVESfcen4lxA7AjWACuq-2" vertex="1" connectable="0">
-          <mxGeometry x="0.1413" relative="1" as="geometry">
-            <mxPoint y="8" as="offset" />
-          </mxGeometry>
+        <mxCell id="lM7YQM6KByzM4RwgJ0BH-1" value="素材分类系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iVESfcen4lxA7AjWACuq-4" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lM7YQM6KByzM4RwgJ0BH-2" value="分类标签更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650" y="179" as="geometry" />
+        </mxCell>
+        <mxCell id="lM7YQM6KByzM4RwgJ0BH-3" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iVESfcen4lxA7AjWACuq-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.763;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="iVESfcen4lxA7AjWACuq-4" target="13ggRFuJZxvYeAbbDywr-2" edge="1">
+        <mxCell id="lM7YQM6KByzM4RwgJ0BH-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.763;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lM7YQM6KByzM4RwgJ0BH-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="250" as="sourcePoint" />
-            <mxPoint x="570" y="200" as="targetPoint" />
+            <mxPoint x="480" y="302" as="targetPoint" />
             <Array as="points">
               <mxPoint x="480" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iVESfcen4lxA7AjWACuq-7" value="管理账户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iVESfcen4lxA7AjWACuq-6" vertex="1" connectable="0">
+        <mxCell id="lM7YQM6KByzM4RwgJ0BH-5" value="管理账户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lM7YQM6KByzM4RwgJ0BH-4">
           <mxGeometry x="-0.1248" relative="1" as="geometry">
             <mxPoint x="20" as="offset" />
           </mxGeometry>
