@@ -242,10 +242,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-68" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="13ggRFuJZxvYeAbbDywr-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="13ggRFuJZxvYeAbbDywr-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="820" y="510" as="sourcePoint" />
+            <mxPoint x="780" y="450" as="sourcePoint" />
             <mxPoint x="870" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13ggRFuJZxvYeAbbDywr-69" value="提交评论信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="13ggRFuJZxvYeAbbDywr-68">
+          <mxGeometry x="-0.1872" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
