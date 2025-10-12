@@ -289,7 +289,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="13ggRFuJZxvYeAbbDywr-8">
+        <mxCell id="13ggRFuJZxvYeAbbDywr-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="13ggRFuJZxvYeAbbDywr-8" target="13ggRFuJZxvYeAbbDywr-80">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1090" y="450" as="sourcePoint" />
             <mxPoint x="1320" y="400" as="targetPoint" />
@@ -299,7 +299,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="375" width="120" height="60" as="geometry" />
+          <mxGeometry x="1330" y="375" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
