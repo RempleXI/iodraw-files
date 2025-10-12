@@ -243,18 +243,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iVESfcen4lxA7AjWACuq-1" value="素材分类系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iVESfcen4lxA7AjWACuq-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="iVESfcen4lxA7AjWACuq-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1230" y="200" as="sourcePoint" />
-            <mxPoint x="1200" y="170" as="targetPoint" />
+            <mxPoint x="640" y="210" as="sourcePoint" />
+            <mxPoint x="610" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVESfcen4lxA7AjWACuq-3" value="分类标签更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iVESfcen4lxA7AjWACuq-2">
           <mxGeometry x="0.1413" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iVESfcen4lxA7AjWACuq-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
