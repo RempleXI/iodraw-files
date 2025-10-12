@@ -16,7 +16,7 @@
             <mxPoint x="280" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="13ggRFuJZxvYeAbbDywr-3">
+        <mxCell id="13ggRFuJZxvYeAbbDywr-5" value="注册信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="13ggRFuJZxvYeAbbDywr-3">
           <mxGeometry x="-0.1198" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -26,6 +26,14 @@
             <mxPoint x="520" y="350" as="sourcePoint" />
             <mxPoint x="570" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="13ggRFuJZxvYeAbbDywr-6" value="登录凭证" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="13ggRFuJZxvYeAbbDywr-4">
+          <mxGeometry x="-0.1621" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13ggRFuJZxvYeAbbDywr-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
