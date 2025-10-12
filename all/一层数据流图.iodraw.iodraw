@@ -60,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-22" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="565" y="360" width="150" height="60" as="geometry" />
+          <mxGeometry x="550" y="340" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-23" value="" style="group" vertex="1" connectable="0" parent="13ggRFuJZxvYeAbbDywr-22">
           <mxGeometry x="5" y="-5" width="150" height="60" as="geometry" />
@@ -87,6 +87,33 @@
           <mxGeometry x="60" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-20" value="D1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="13ggRFuJZxvYeAbbDywr-24">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13ggRFuJZxvYeAbbDywr-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="450" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="13ggRFuJZxvYeAbbDywr-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="13ggRFuJZxvYeAbbDywr-33">
+          <mxGeometry width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="13ggRFuJZxvYeAbbDywr-35" value="" style="endArrow=none;html=1;rounded=0;exitX=1.004;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="13ggRFuJZxvYeAbbDywr-33" source="13ggRFuJZxvYeAbbDywr-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="10" as="sourcePoint" />
+            <mxPoint x="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13ggRFuJZxvYeAbbDywr-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1.004;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="13ggRFuJZxvYeAbbDywr-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="60" as="sourcePoint" />
+            <mxPoint x="150" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13ggRFuJZxvYeAbbDywr-37" value="" style="group" vertex="1" connectable="0" parent="13ggRFuJZxvYeAbbDywr-33">
+          <mxGeometry x="-20" y="15" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13ggRFuJZxvYeAbbDywr-38" value="权限信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="13ggRFuJZxvYeAbbDywr-37">
+          <mxGeometry x="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13ggRFuJZxvYeAbbDywr-39" value="D1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="13ggRFuJZxvYeAbbDywr-37">
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
       </root>
