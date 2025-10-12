@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="DnGl2mQURgQNHnfGI3YG">
-    <mxGraphModel dx="698" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,6 +208,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="450" as="sourcePoint" />
             <mxPoint x="930.0000000000002" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990" y="450" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-69" value="提交评论信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="13ggRFuJZxvYeAbbDywr-68" vertex="1" connectable="0">
