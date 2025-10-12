@@ -168,9 +168,9 @@
           <mxGeometry x="1180" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-52" value="审核系统&lt;div&gt;（审核表）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="1180" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="13ggRFuJZxvYeAbbDywr-49" target="13ggRFuJZxvYeAbbDywr-52" edge="1">
+        <mxCell id="13ggRFuJZxvYeAbbDywr-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="13ggRFuJZxvYeAbbDywr-49" target="13ggRFuJZxvYeAbbDywr-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1310" y="360" as="sourcePoint" />
             <mxPoint x="1360" y="310" as="targetPoint" />
@@ -178,7 +178,7 @@
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-55" value="审核结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="13ggRFuJZxvYeAbbDywr-53" vertex="1" connectable="0">
           <mxGeometry x="-0.137" relative="1" as="geometry">
-            <mxPoint x="15" y="-49" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="13ggRFuJZxvYeAbbDywr-1" target="13ggRFuJZxvYeAbbDywr-8" edge="1">
