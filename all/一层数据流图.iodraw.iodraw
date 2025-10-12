@@ -140,6 +140,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="320" as="sourcePoint" />
             <mxPoint x="1150" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="250" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-51" value="审核任务分配" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="13ggRFuJZxvYeAbbDywr-47" vertex="1" connectable="0">
