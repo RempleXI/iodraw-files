@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-23" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="650" y="320" width="150" height="60" as="geometry" />
+          <mxGeometry x="630" y="320" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="13ggRFuJZxvYeAbbDywr-23" vertex="1">
           <mxGeometry width="20" height="60" as="geometry" />
