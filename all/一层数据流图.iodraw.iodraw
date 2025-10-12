@@ -93,13 +93,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-37" value="" style="group" vertex="1" connectable="0" parent="13ggRFuJZxvYeAbbDywr-33">
-          <mxGeometry x="-20" y="15" width="120" height="30" as="geometry" />
+          <mxGeometry x="-10" y="15" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-38" value="评论信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="13ggRFuJZxvYeAbbDywr-37">
-          <mxGeometry x="60" width="60" height="30" as="geometry" />
+          <mxGeometry x="55" width="55" height="30" as="geometry" />
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-39" value="D2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="13ggRFuJZxvYeAbbDywr-37">
-          <mxGeometry width="60" height="30" as="geometry" />
+          <mxGeometry width="55" height="30" as="geometry" />
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="13ggRFuJZxvYeAbbDywr-2" target="13ggRFuJZxvYeAbbDywr-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
