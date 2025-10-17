@@ -38,32 +38,15 @@
         <mxCell id="13ggRFuJZxvYeAbbDywr-49" value="审核员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1180" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-52" value="审核系统&lt;div&gt;（审核表）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="13ggRFuJZxvYeAbbDywr-49" target="13ggRFuJZxvYeAbbDywr-52" edge="1">
+        <mxCell id="13ggRFuJZxvYeAbbDywr-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="13ggRFuJZxvYeAbbDywr-49" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1310" y="360" as="sourcePoint" />
-            <mxPoint x="1360" y="310" as="targetPoint" />
+            <mxPoint x="1380" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-55" value="审核结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="13ggRFuJZxvYeAbbDywr-53" vertex="1" connectable="0">
           <mxGeometry x="-0.137" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-58" value="外部购买系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="13ggRFuJZxvYeAbbDywr-58" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1180" y="450" as="sourcePoint" />
-            <mxPoint x="1010" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-62" value="支付信息确认" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="13ggRFuJZxvYeAbbDywr-59" vertex="1" connectable="0">
-          <mxGeometry x="-0.1487" y="1" relative="1" as="geometry">
-            <mxPoint x="-8" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="TVTA2kaKl1asHdbe1GmN-1" edge="1">
