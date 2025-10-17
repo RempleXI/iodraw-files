@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="DnGl2mQURgQNHnfGI3YG">
-    <mxGraphModel dx="842" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,20 +26,6 @@
         </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-43" value="权限信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="13ggRFuJZxvYeAbbDywr-11" vertex="1" connectable="0">
           <mxGeometry x="-0.0645" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="13ggRFuJZxvYeAbbDywr-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="70" as="sourcePoint" />
-            <mxPoint x="990" y="100" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="990" y="50" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-46" value="素材信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="13ggRFuJZxvYeAbbDywr-45" vertex="1" connectable="0">
-          <mxGeometry x="-0.0181" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -117,9 +103,9 @@
             <mxPoint x="253" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-77" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.454;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="rMEIzWC5jgoMuK2hbqxC-2" edge="1">
+        <mxCell id="13ggRFuJZxvYeAbbDywr-77" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.454;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="rMEIzWC5jgoMuK2hbqxC-2" edge="1" source="13ggRFuJZxvYeAbbDywr-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="990" y="160" as="sourcePoint" />
+            <mxPoint x="580" y="100" as="sourcePoint" />
             <mxPoint x="990.0000000000002" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
