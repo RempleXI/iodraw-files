@@ -93,14 +93,13 @@
             <mxPoint x="710" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZYRwi1LA5M-xSCCCIjAQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yI5FmB1kNXvVQ5NLpCFf-2" target="ZYRwi1LA5M-xSCCCIjAQ-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZYRwi1LA5M-xSCCCIjAQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yI5FmB1kNXvVQ5NLpCFf-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yI5FmB1kNXvVQ5NLpCFf-2" value="素材详情" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="740" y="300" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZYRwi1LA5M-xSCCCIjAQ-1" value="" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="910" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -145,6 +144,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="laU61oyL6G_Aj--V5quj-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
