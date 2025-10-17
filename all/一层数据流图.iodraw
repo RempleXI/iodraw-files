@@ -28,6 +28,9 @@
         <mxCell id="ZS5GFsNhWPArm5MIaY2p-6" value="其他系统" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="80" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="kiihKQ-4_Bq1XtT3GIxH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -48,7 +51,7 @@
           <mxGeometry x="120" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2TErxlT4-1MktpUUl0CQ-2" value="&lt;div&gt;S2&lt;/div&gt;素材分类系统" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="120" width="80" height="80" as="geometry" />
+          <mxGeometry x="410" y="120" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
