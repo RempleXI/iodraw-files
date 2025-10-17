@@ -236,13 +236,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iVESfcen4lxA7AjWACuq-1" value="素材分类系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="90" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iVESfcen4lxA7AjWACuq-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="iVESfcen4lxA7AjWACuq-4" target="iVESfcen4lxA7AjWACuq-1" edge="1">
+        <mxCell id="iVESfcen4lxA7AjWACuq-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="iVESfcen4lxA7AjWACuq-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="210" as="sourcePoint" />
-            <mxPoint x="610" y="180" as="targetPoint" />
+            <mxPoint x="650" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVESfcen4lxA7AjWACuq-3" value="分类标签更新信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iVESfcen4lxA7AjWACuq-2" vertex="1" connectable="0">
