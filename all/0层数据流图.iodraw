@@ -13,7 +13,7 @@
             <mxPoint x="425" y="311.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-5" value="登入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="13ggRFuJZxvYeAbbDywr-3" vertex="1" connectable="0">
+        <mxCell id="13ggRFuJZxvYeAbbDywr-5" value="登入信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="13ggRFuJZxvYeAbbDywr-3" vertex="1" connectable="0">
           <mxGeometry x="-0.1198" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
