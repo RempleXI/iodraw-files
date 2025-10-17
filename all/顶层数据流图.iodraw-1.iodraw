@@ -81,10 +81,15 @@
             <mxPoint x="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tV1sOZ4Bz4hzr0glFHwS-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="tV1sOZ4Bz4hzr0glFHwS-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.596;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.002;entryY=0.538;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="13ggRFuJZxvYeAbbDywr-1" target="tV1sOZ4Bz4hzr0glFHwS-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="420" as="sourcePoint" />
             <mxPoint x="680" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tV1sOZ4Bz4hzr0glFHwS-8" value="登入请求信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tV1sOZ4Bz4hzr0glFHwS-7">
+          <mxGeometry x="0.1593" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
