@@ -32,7 +32,7 @@
             <mxPoint x="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.283;entryY=0.044;entryDx=0;entryDy=0;exitX=0.305;exitY=1.001;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="TVTA2kaKl1asHdbe1GmN-1" edge="1" target="tV1sOZ4Bz4hzr0glFHwS-1">
+        <mxCell id="13ggRFuJZxvYeAbbDywr-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.297;entryY=0.034;entryDx=0;entryDy=0;exitX=0.305;exitY=1.001;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="TVTA2kaKl1asHdbe1GmN-1" edge="1" target="tV1sOZ4Bz4hzr0glFHwS-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1080" y="110" as="sourcePoint" />
             <mxPoint x="950" y="320" as="targetPoint" />
@@ -47,9 +47,10 @@
           <mxGeometry x="730" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TVTA2kaKl1asHdbe1GmN-2" value="管理账户" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.631;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TVTA2kaKl1asHdbe1GmN-1" target="tV1sOZ4Bz4hzr0glFHwS-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="0.2982" y="9" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="210" as="sourcePoint" />
             <mxPoint x="479.80999999999995" y="290.095" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tV1sOZ4Bz4hzr0glFHwS-1" value="像素画交易系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
