@@ -209,21 +209,22 @@
         <mxCell id="SLveRwh5J53dMskgrP2D-2" value="S3&lt;div&gt;素材系统&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SLveRwh5J53dMskgrP2D-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLveRwh5J53dMskgrP2D-5" target="SLveRwh5J53dMskgrP2D-2">
+        <mxCell id="SLveRwh5J53dMskgrP2D-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="SLveRwh5J53dMskgrP2D-2">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="300" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="560" y="330" />
+              <mxPoint x="630" y="330" />
               <mxPoint x="400" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SLveRwh5J53dMskgrP2D-9" value="支付返回确认信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SLveRwh5J53dMskgrP2D-8">
           <mxGeometry x="0.1333" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SLveRwh5J53dMskgrP2D-5" value="S6&lt;div&gt;外部支付系统&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="200" width="80" height="80" as="geometry" />
+          <mxGeometry x="590" y="200" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
