@@ -248,7 +248,7 @@
             <mxPoint x="610" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iVESfcen4lxA7AjWACuq-3" value="分类标签更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iVESfcen4lxA7AjWACuq-2" vertex="1" connectable="0">
+        <mxCell id="iVESfcen4lxA7AjWACuq-3" value="分类标签更新信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iVESfcen4lxA7AjWACuq-2" vertex="1" connectable="0">
           <mxGeometry x="0.1413" relative="1" as="geometry">
             <mxPoint y="8" as="offset" />
           </mxGeometry>
