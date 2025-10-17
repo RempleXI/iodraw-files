@@ -109,9 +109,9 @@
             <mxPoint x="680" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tV1sOZ4Bz4hzr0glFHwS-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tV1sOZ4Bz4hzr0glFHwS-14">
+        <mxCell id="tV1sOZ4Bz4hzr0glFHwS-15" value="评论信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tV1sOZ4Bz4hzr0glFHwS-14">
           <mxGeometry x="0.1177" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
