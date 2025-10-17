@@ -265,7 +265,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iVESfcen4lxA7AjWACuq-7" value="管理账户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iVESfcen4lxA7AjWACuq-6" vertex="1" connectable="0">
+        <mxCell id="iVESfcen4lxA7AjWACuq-7" value="管理账户更变信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iVESfcen4lxA7AjWACuq-6" vertex="1" connectable="0">
           <mxGeometry x="-0.1248" relative="1" as="geometry">
             <mxPoint x="20" as="offset" />
           </mxGeometry>
