@@ -98,7 +98,7 @@
             <mxPoint x="720" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tV1sOZ4Bz4hzr0glFHwS-13" value="作品内容" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tV1sOZ4Bz4hzr0glFHwS-12">
+        <mxCell id="tV1sOZ4Bz4hzr0glFHwS-13" value="购买请求信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tV1sOZ4Bz4hzr0glFHwS-12">
           <mxGeometry x="0.2212" y="-2" relative="1" as="geometry">
             <mxPoint x="-13" as="offset" />
           </mxGeometry>
