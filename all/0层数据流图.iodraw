@@ -103,7 +103,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-46" value="上传素材请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="13ggRFuJZxvYeAbbDywr-45" vertex="1" connectable="0">
+        <mxCell id="13ggRFuJZxvYeAbbDywr-46" value="素材信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="13ggRFuJZxvYeAbbDywr-45" vertex="1" connectable="0">
           <mxGeometry x="-0.0181" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -193,7 +193,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-69" value="提交评论信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="13ggRFuJZxvYeAbbDywr-68" vertex="1" connectable="0">
+        <mxCell id="13ggRFuJZxvYeAbbDywr-69" value="评论信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="13ggRFuJZxvYeAbbDywr-68" vertex="1" connectable="0">
           <mxGeometry x="-0.1872" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
