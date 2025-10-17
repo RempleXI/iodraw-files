@@ -35,7 +35,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="TVTA2kaKl1asHdbe1GmN-1" edge="1">
+        <mxCell id="13ggRFuJZxvYeAbbDywr-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.315;entryY=0.021;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="TVTA2kaKl1asHdbe1GmN-1" edge="1" target="tV1sOZ4Bz4hzr0glFHwS-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1080" y="110" as="sourcePoint" />
             <mxPoint x="950" y="320" as="targetPoint" />
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TVTA2kaKl1asHdbe1GmN-1" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TVTA2kaKl1asHdbe1GmN-2" value="管理账户" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.761;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TVTA2kaKl1asHdbe1GmN-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
