@@ -147,8 +147,18 @@
         <mxCell id="laU61oyL6G_Aj--V5quj-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="laU61oyL6G_Aj--V5quj-1" target="laU61oyL6G_Aj--V5quj-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="laU61oyL6G_Aj--V5quj-4" value="审核结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="laU61oyL6G_Aj--V5quj-3">
+          <mxGeometry x="-0.1067" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="laU61oyL6G_Aj--V5quj-1" value="审核员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laU61oyL6G_Aj--V5quj-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="laU61oyL6G_Aj--V5quj-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="laU61oyL6G_Aj--V5quj-2" value="S5&lt;div&gt;审核系统&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="240" width="80" height="80" as="geometry" />
