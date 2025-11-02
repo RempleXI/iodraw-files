@@ -1,0 +1,134 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="EtNw5aAHEbdoGymUYkb4">
+    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-1" value="购买用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="150" height="992" as="geometry" />
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-2" value="素材商店界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+          <mxGeometry x="266" y="20" width="150" height="992" as="geometry" />
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-3" value="交易系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+          <mxGeometry x="480" y="20" width="150" height="992" as="geometry" />
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-4" value="数据存储" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
+          <mxGeometry x="727" y="20" width="150" height="992" as="geometry" />
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-5" value="浏览素材商店" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="ksKn9PPwQGbuZVmjC5yJ-1" target="ksKn9PPwQGbuZVmjC5yJ-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-6" value="请求已发布素材列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="ksKn9PPwQGbuZVmjC5yJ-2" target="ksKn9PPwQGbuZVmjC5yJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="457" y="179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-7" value="查询可购买素材" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="ksKn9PPwQGbuZVmjC5yJ-3" target="ksKn9PPwQGbuZVmjC5yJ-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="687" y="231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-8" value="返回素材列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="ksKn9PPwQGbuZVmjC5yJ-4" target="ksKn9PPwQGbuZVmjC5yJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="283" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-9" value="返回素材数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="ksKn9PPwQGbuZVmjC5yJ-3" target="ksKn9PPwQGbuZVmjC5yJ-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-10" value="显示素材画廊" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="ksKn9PPwQGbuZVmjC5yJ-2" target="ksKn9PPwQGbuZVmjC5yJ-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-11" value="选择心仪素材" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="ksKn9PPwQGbuZVmjC5yJ-1" target="ksKn9PPwQGbuZVmjC5yJ-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-12" value="显示素材详情页" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="ksKn9PPwQGbuZVmjC5yJ-2" target="ksKn9PPwQGbuZVmjC5yJ-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="491" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-13" value="点击购买按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="ksKn9PPwQGbuZVmjC5yJ-1" target="ksKn9PPwQGbuZVmjC5yJ-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="543" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-14" value="发送购买请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="ksKn9PPwQGbuZVmjC5yJ-2" target="ksKn9PPwQGbuZVmjC5yJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="457" y="595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-15" value="验证用户权限和素材状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="ksKn9PPwQGbuZVmjC5yJ-3" target="ksKn9PPwQGbuZVmjC5yJ-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="687" y="647" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-16" value="返回验证结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="ksKn9PPwQGbuZVmjC5yJ-4" target="ksKn9PPwQGbuZVmjC5yJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="699" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-17" value="创建购买记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="ksKn9PPwQGbuZVmjC5yJ-3" target="ksKn9PPwQGbuZVmjC5yJ-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="687" y="751" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-18" value="返回购买记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="ksKn9PPwQGbuZVmjC5yJ-4" target="ksKn9PPwQGbuZVmjC5yJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="803" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-19" value="返回购买成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="ksKn9PPwQGbuZVmjC5yJ-3" target="ksKn9PPwQGbuZVmjC5yJ-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="855" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksKn9PPwQGbuZVmjC5yJ-20" value="显示下载链接和购买凭证" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="ksKn9PPwQGbuZVmjC5yJ-2" target="ksKn9PPwQGbuZVmjC5yJ-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="907" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
