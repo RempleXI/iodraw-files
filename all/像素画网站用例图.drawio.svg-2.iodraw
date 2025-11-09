@@ -4,6 +4,9 @@
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="osMK1CUHXBz5Fjso2Tbi-11" value="pixel" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillStyle=auto;opacity=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="285" width="690" height="985" as="geometry" />
+        </mxCell>
         <object label="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;管理员&lt;/span&gt;&lt;/div&gt;" id="Jiq1coU1wuNyYgPERtKY-64">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=1;gradientColor=none;strokeColor=default;fontColor=default;" parent="1" vertex="1">
             <mxGeometry x="3130" y="920" width="30" height="60" as="geometry" />
@@ -190,9 +193,6 @@
             <mxPoint x="2660" y="920" as="sourcePoint" />
             <mxPoint x="2710" y="870" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="osMK1CUHXBz5Fjso2Tbi-11" value="pixel" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillStyle=auto;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="2390" y="285" width="690" height="985" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
