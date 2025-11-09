@@ -96,7 +96,7 @@
           <mxGeometry x="2720" y="630" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jiq1coU1wuNyYgPERtKY-96" value="购买作品&lt;div&gt;创建订单&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=1;fillColor=default;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2910" y="970" width="70" height="40" as="geometry" />
+          <mxGeometry x="2910" y="960" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jiq1coU1wuNyYgPERtKY-105" value="支付订单" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=1;fillColor=default;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="2910" y="900" width="70" height="30" as="geometry" />
@@ -180,6 +180,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2810" y="890" as="sourcePoint" />
             <mxPoint x="2860" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="osMK1CUHXBz5Fjso2Tbi-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2610" y="990" as="sourcePoint" />
+            <mxPoint x="2660" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
