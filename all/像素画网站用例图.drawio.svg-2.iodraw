@@ -9,12 +9,12 @@
         </mxCell>
         <object label="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;管理员&lt;/span&gt;&lt;/div&gt;" id="Jiq1coU1wuNyYgPERtKY-64">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=1;gradientColor=none;strokeColor=default;fontColor=default;" parent="1" vertex="1">
-            <mxGeometry x="2330" y="920" width="30" height="60" as="geometry" />
+            <mxGeometry x="3690" y="980" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="用户" id="Jiq1coU1wuNyYgPERtKY-67">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=1;gradientColor=none;strokeColor=default;fontColor=default;" parent="1" vertex="1">
-            <mxGeometry x="3440" y="950" width="30" height="60" as="geometry" />
+            <mxGeometry x="2330" y="950" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="Jiq1coU1wuNyYgPERtKY-70" value="游客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=1;gradientColor=none;strokeColor=default;fontColor=default;" parent="1" vertex="1">
