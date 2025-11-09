@@ -36,7 +36,7 @@
           <mxGeometry x="2990" y="580" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jiq1coU1wuNyYgPERtKY-78" value="权限管理" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=1;fillColor=default;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2990" y="935" width="70" height="30" as="geometry" />
+          <mxGeometry x="2910" y="1050" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jiq1coU1wuNyYgPERtKY-79" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Jiq1coU1wuNyYgPERtKY-72" target="Jiq1coU1wuNyYgPERtKY-70" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
