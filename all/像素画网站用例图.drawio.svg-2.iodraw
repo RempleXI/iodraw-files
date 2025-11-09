@@ -9,7 +9,7 @@
         </mxCell>
         <object label="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;管理员&lt;/span&gt;&lt;/div&gt;" id="Jiq1coU1wuNyYgPERtKY-64">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=1;gradientColor=none;strokeColor=default;fontColor=default;" parent="1" vertex="1">
-            <mxGeometry x="3440" y="920" width="30" height="60" as="geometry" />
+            <mxGeometry x="3130" y="920" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="用户" id="Jiq1coU1wuNyYgPERtKY-67">
@@ -74,7 +74,7 @@
             <mxPoint x="2430" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jiq1coU1wuNyYgPERtKY-89" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Jiq1coU1wuNyYgPERtKY-64" target="Jiq1coU1wuNyYgPERtKY-78" edge="1">
+        <mxCell id="Jiq1coU1wuNyYgPERtKY-89" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=none;fontStyle=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Jiq1coU1wuNyYgPERtKY-64" target="Jiq1coU1wuNyYgPERtKY-78" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2370" y="720" as="sourcePoint" />
             <mxPoint x="2430" y="550" as="targetPoint" />
