@@ -191,8 +191,8 @@
             <mxPoint x="2710" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="osMK1CUHXBz5Fjso2Tbi-11" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="2390" y="285" width="300" height="200" as="geometry" />
+        <mxCell id="osMK1CUHXBz5Fjso2Tbi-11" value="pixel" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="285" width="690" height="985" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
