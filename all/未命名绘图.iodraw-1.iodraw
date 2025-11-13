@@ -55,7 +55,7 @@
         <mxCell id="Dxz_czKZjjsBPWossLJq-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;R3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="560" y="620" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Dxz_czKZjjsBPWossLJq-12" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
+        <mxCell id="Dxz_czKZjjsBPWossLJq-12" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;R2=1kΩ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="690" y="560" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Dxz_czKZjjsBPWossLJq-15" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Rx&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
