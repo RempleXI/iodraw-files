@@ -49,8 +49,8 @@
             <mxPoint x="760" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dxz_czKZjjsBPWossLJq-9" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-45;" vertex="1" parent="1">
-          <mxGeometry x="560" y="560" width="30" height="10" as="geometry" />
+        <mxCell id="Dxz_czKZjjsBPWossLJq-9" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="560" y="570" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Dxz_czKZjjsBPWossLJq-10" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="690" y="620" width="30" height="10" as="geometry" />
