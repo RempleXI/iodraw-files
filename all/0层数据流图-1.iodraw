@@ -148,13 +148,10 @@
         <mxCell id="rMEIzWC5jgoMuK2hbqxC-1" value="账户系统&lt;div&gt;（账户和权限表）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="360" y="290" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="DtcsT15_YOYA38aeutCy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.989;exitY=0.656;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rMEIzWC5jgoMuK2hbqxC-2">
+        <mxCell id="DtcsT15_YOYA38aeutCy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.989;exitY=0.656;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rMEIzWC5jgoMuK2hbqxC-2" target="rMEIzWC5jgoMuK2hbqxC-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1170" y="400" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1120" y="367" />
-              <mxPoint x="1180" y="367" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DtcsT15_YOYA38aeutCy-6" value="支付请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DtcsT15_YOYA38aeutCy-5">
