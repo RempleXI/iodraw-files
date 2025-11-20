@@ -114,29 +114,29 @@
             <mxPoint x="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.689;exitY=0.039;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.833;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tV1sOZ4Bz4hzr0glFHwS-1" target="TVTA2kaKl1asHdbe1GmN-1">
+        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.689;exitY=0.039;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.833;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tV1sOZ4Bz4hzr0glFHwS-1" target="TVTA2kaKl1asHdbe1GmN-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="870" y="230" as="sourcePoint" />
             <mxPoint x="920" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-2" value="分类请求任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HANiXEAwWy5rP1ZiFkZZ-1">
+        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-2" value="分类请求任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HANiXEAwWy5rP1ZiFkZZ-1" vertex="1" connectable="0">
           <mxGeometry x="0.1235" relative="1" as="geometry">
             <mxPoint y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.17;exitY=-0.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.311;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tV1sOZ4Bz4hzr0glFHwS-2" target="tV1sOZ4Bz4hzr0glFHwS-1">
+        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.17;exitY=-0.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.311;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tV1sOZ4Bz4hzr0glFHwS-2" target="tV1sOZ4Bz4hzr0glFHwS-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="520" as="sourcePoint" />
             <mxPoint x="810" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-4" value="作品详情&lt;div&gt;申请&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HANiXEAwWy5rP1ZiFkZZ-3">
+        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-4" value="作品详情&lt;div&gt;申请&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HANiXEAwWy5rP1ZiFkZZ-3" vertex="1" connectable="0">
           <mxGeometry x="0.1852" relative="1" as="geometry">
             <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.862;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tV1sOZ4Bz4hzr0glFHwS-1" target="13ggRFuJZxvYeAbbDywr-1">
+        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.862;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="tV1sOZ4Bz4hzr0glFHwS-1" target="13ggRFuJZxvYeAbbDywr-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="420" as="sourcePoint" />
             <mxPoint x="690" y="370" as="targetPoint" />
@@ -145,12 +145,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-6" value="购买支付结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HANiXEAwWy5rP1ZiFkZZ-5">
+        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-6" value="购买支付结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HANiXEAwWy5rP1ZiFkZZ-5" vertex="1" connectable="0">
           <mxGeometry x="-0.0335" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.107;exitY=0.189;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.835;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tV1sOZ4Bz4hzr0glFHwS-1" target="13ggRFuJZxvYeAbbDywr-1">
+        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.107;exitY=0.189;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.835;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tV1sOZ4Bz4hzr0glFHwS-1" target="13ggRFuJZxvYeAbbDywr-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="300" as="sourcePoint" />
             <mxPoint x="670" y="250" as="targetPoint" />
@@ -159,7 +159,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-8" value="作品详情" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HANiXEAwWy5rP1ZiFkZZ-7">
+        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-8" value="作品详情" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HANiXEAwWy5rP1ZiFkZZ-7" vertex="1" connectable="0">
           <mxGeometry x="0.1053" y="-1" relative="1" as="geometry">
             <mxPoint x="19" as="offset" />
           </mxGeometry>
