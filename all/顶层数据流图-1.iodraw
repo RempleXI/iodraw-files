@@ -118,13 +118,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="870" y="230" as="sourcePoint" />
             <mxPoint x="920" y="180" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="850" y="230" />
-              <mxPoint x="870" y="230" />
-              <mxPoint x="920" y="230" />
-              <mxPoint x="920" y="110" />
-              <mxPoint x="870" y="110" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HANiXEAwWy5rP1ZiFkZZ-2" value="分类请求任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HANiXEAwWy5rP1ZiFkZZ-1">
