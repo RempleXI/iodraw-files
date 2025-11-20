@@ -64,11 +64,6 @@
         <mxCell id="wso7EQW1dy6SrTsvXw6K-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2TErxlT4-1MktpUUl0CQ-2" target="wso7EQW1dy6SrTsvXw6K-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wso7EQW1dy6SrTsvXw6K-9" value="素材分类信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wso7EQW1dy6SrTsvXw6K-8" vertex="1" connectable="0">
-          <mxGeometry x="0.4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Y8NCBEge6O1cQnJ36Yga-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2TErxlT4-1MktpUUl0CQ-2" target="2TErxlT4-1MktpUUl0CQ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
