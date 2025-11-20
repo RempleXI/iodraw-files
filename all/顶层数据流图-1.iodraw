@@ -152,9 +152,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HANiXEAwWy5rP1ZiFkZZ-5">
+        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-6" value="购买支付结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HANiXEAwWy5rP1ZiFkZZ-5">
           <mxGeometry x="-0.0335" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="300" as="sourcePoint" />
+            <mxPoint x="670" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
