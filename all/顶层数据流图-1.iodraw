@@ -87,7 +87,7 @@
             <mxPoint x="680" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tV1sOZ4Bz4hzr0glFHwS-8" value="登入请求信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tV1sOZ4Bz4hzr0glFHwS-7" vertex="1" connectable="0">
+        <mxCell id="tV1sOZ4Bz4hzr0glFHwS-8" value="登入信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tV1sOZ4Bz4hzr0glFHwS-7" vertex="1" connectable="0">
           <mxGeometry x="0.1593" relative="1" as="geometry">
             <mxPoint x="-9" as="offset" />
           </mxGeometry>
@@ -140,7 +140,7 @@
         </mxCell>
         <mxCell id="HANiXEAwWy5rP1ZiFkZZ-4" value="作品详情&lt;div&gt;申请&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HANiXEAwWy5rP1ZiFkZZ-3">
           <mxGeometry x="0.1852" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
