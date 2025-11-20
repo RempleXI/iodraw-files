@@ -218,6 +218,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="DtcsT15_YOYA38aeutCy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DtcsT15_YOYA38aeutCy-17" target="rMEIzWC5jgoMuK2hbqxC-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="340" />
+              <mxPoint x="645" y="340" />
+              <mxPoint x="645" y="341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
