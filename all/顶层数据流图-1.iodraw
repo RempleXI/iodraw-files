@@ -127,7 +127,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-2" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HANiXEAwWy5rP1ZiFkZZ-1">
+        <mxCell id="HANiXEAwWy5rP1ZiFkZZ-2" value="分类请求任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HANiXEAwWy5rP1ZiFkZZ-1">
           <mxGeometry x="0.1235" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
