@@ -260,8 +260,14 @@
             <mxPoint x="380" y="280" as="sourcePoint" />
             <mxPoint x="430" y="230" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="400" y="150" />
               <mxPoint x="200" y="150" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qKDnxdtjJTUUN7ieMGJg-2" value="购买支付结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKDnxdtjJTUUN7ieMGJg-1">
+          <mxGeometry x="0.0556" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
