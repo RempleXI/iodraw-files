@@ -179,13 +179,13 @@
         <mxCell id="rMEIzWC5jgoMuK2hbqxC-4" value="外部支付系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1190" y="310" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DtcsT15_YOYA38aeutCy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rMEIzWC5jgoMuK2hbqxC-5" target="13ggRFuJZxvYeAbbDywr-49">
+        <mxCell id="DtcsT15_YOYA38aeutCy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.166;entryY=0.028;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="rMEIzWC5jgoMuK2hbqxC-5" target="13ggRFuJZxvYeAbbDywr-49">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1180" y="200" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1240" y="136" />
               <mxPoint x="1240" y="140" />
               <mxPoint x="1200" y="140" />
-              <mxPoint x="1200" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
