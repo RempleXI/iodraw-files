@@ -29,22 +29,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DtcsT15_YOYA38aeutCy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="13ggRFuJZxvYeAbbDywr-49" target="rMEIzWC5jgoMuK2hbqxC-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1280" y="220" />
-              <mxPoint x="1280" y="136" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DtcsT15_YOYA38aeutCy-3" value="审核结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DtcsT15_YOYA38aeutCy-2">
-          <mxGeometry x="0.1852" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="13ggRFuJZxvYeAbbDywr-49" value="审核员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="13ggRFuJZxvYeAbbDywr-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.899;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="13ggRFuJZxvYeAbbDywr-1" target="rMEIzWC5jgoMuK2hbqxC-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="180" as="sourcePoint" />
@@ -178,22 +162,6 @@
         </mxCell>
         <mxCell id="rMEIzWC5jgoMuK2hbqxC-4" value="外部支付系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1190" y="310" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="DtcsT15_YOYA38aeutCy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rMEIzWC5jgoMuK2hbqxC-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1200" y="220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1200" y="136" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DtcsT15_YOYA38aeutCy-4" value="审核请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DtcsT15_YOYA38aeutCy-1">
-          <mxGeometry x="0.2712" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rMEIzWC5jgoMuK2hbqxC-5" value="审核系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="68" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DtcsT15_YOYA38aeutCy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2yCtmX3oQv-yPvvabAim-1" target="rMEIzWC5jgoMuK2hbqxC-2">
           <mxGeometry relative="1" as="geometry">
