@@ -61,9 +61,6 @@
         <mxCell id="2TErxlT4-1MktpUUl0CQ-1" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wso7EQW1dy6SrTsvXw6K-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2TErxlT4-1MktpUUl0CQ-2" target="wso7EQW1dy6SrTsvXw6K-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Y8NCBEge6O1cQnJ36Yga-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2TErxlT4-1MktpUUl0CQ-2" target="2TErxlT4-1MktpUUl0CQ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -108,6 +105,9 @@
         </mxCell>
         <mxCell id="yI5FmB1kNXvVQ5NLpCFf-2" value="素材详情" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="740" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8NCBEge6O1cQnJ36Yga-3" value="素材分类信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="190" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
