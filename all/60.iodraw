@@ -139,14 +139,14 @@
         <mxCell id="OkuYMnactHBS3RyzxQPP-1" value="执行增加操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="290" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OkuYMnactHBS3RyzxQPP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OkuYMnactHBS3RyzxQPP-2" target="XayagXvP-BVZ6n86eqcy-8">
+        <mxCell id="OkuYMnactHBS3RyzxQPP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OkuYMnactHBS3RyzxQPP-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="530" as="targetPoint" />
             <Array as="points">
               <mxPoint x="414" y="450" />
               <mxPoint x="301" y="450" />
-              <mxPoint x="301" y="530" />
-              <mxPoint x="287" y="530" />
+              <mxPoint x="301" y="520" />
+              <mxPoint x="300" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
