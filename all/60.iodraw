@@ -8,7 +8,7 @@
           <mxGeometry x="167" y="28" width="236" height="54" as="geometry" />
         </mxCell>
         <mxCell id="XayagXvP-BVZ6n86eqcy-2" value="选择操作类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="140" y="140" width="150" height="150" as="geometry" />
+          <mxGeometry x="210" y="130" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="XayagXvP-BVZ6n86eqcy-8" value="系统校验信息" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="212" y="540" width="150" height="150" as="geometry" />
