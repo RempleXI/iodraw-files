@@ -58,6 +58,11 @@
         <mxCell id="XayagXvP-BVZ6n86eqcy-10" value="显示操作成功" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="98" y="868" width="156" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="BxD0tF_wl8rUfQ2usmUZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XayagXvP-BVZ6n86eqcy-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XayagXvP-BVZ6n86eqcy-11" value="显示相关错误信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="304" y="868" width="188" height="54" as="geometry" />
         </mxCell>
