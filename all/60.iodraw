@@ -10,6 +10,12 @@
         <mxCell id="BxD0tF_wl8rUfQ2usmUZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XayagXvP-BVZ6n86eqcy-2" target="XayagXvP-BVZ6n86eqcy-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BxD0tF_wl8rUfQ2usmUZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XayagXvP-BVZ6n86eqcy-2" target="XayagXvP-BVZ6n86eqcy-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BxD0tF_wl8rUfQ2usmUZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XayagXvP-BVZ6n86eqcy-2" target="XayagXvP-BVZ6n86eqcy-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XayagXvP-BVZ6n86eqcy-2" value="选择操作类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="210" y="130" width="150" height="150" as="geometry" />
         </mxCell>
