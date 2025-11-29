@@ -19,9 +19,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="169.9999999999999" y="290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="205" />
-              <mxPoint x="190" y="280" />
-              <mxPoint x="170" y="280" />
+              <mxPoint x="170" y="205" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -149,10 +147,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OkuYMnactHBS3RyzxQPP-1" value="执行增加操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="300" width="80" height="60" as="geometry" />
+          <mxGeometry x="130" y="290" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OkuYMnactHBS3RyzxQPP-2" value="执行增加操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="366" y="300" width="80" height="60" as="geometry" />
+          <mxGeometry x="312" y="300" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OkuYMnactHBS3RyzxQPP-3" value="执行增加操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="310" width="80" height="60" as="geometry" />
