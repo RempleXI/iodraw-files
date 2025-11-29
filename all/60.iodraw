@@ -20,6 +20,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="BxD0tF_wl8rUfQ2usmUZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XayagXvP-BVZ6n86eqcy-2" target="XayagXvP-BVZ6n86eqcy-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XayagXvP-BVZ6n86eqcy-2" value="选择操作类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="210" y="130" width="150" height="150" as="geometry" />
         </mxCell>
@@ -65,22 +68,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="169" y="420" as="sourcePoint" />
             <mxPoint x="213" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XayagXvP-BVZ6n86eqcy-42" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="XayagXvP-BVZ6n86eqcy-90" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="497" y="420" />
-            </Array>
-            <mxPoint x="284" y="420" as="sourcePoint" />
-            <mxPoint x="497" y="386" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XayagXvP-BVZ6n86eqcy-43" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="XayagXvP-BVZ6n86eqcy-86" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="361" y="420" as="sourcePoint" />
-            <mxPoint x="361" y="386" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XayagXvP-BVZ6n86eqcy-44" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
