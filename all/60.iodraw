@@ -46,6 +46,13 @@
         <mxCell id="XayagXvP-BVZ6n86eqcy-2" value="选择操作类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="210" y="130" width="150" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="BxD0tF_wl8rUfQ2usmUZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XayagXvP-BVZ6n86eqcy-8" target="XayagXvP-BVZ6n86eqcy-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="406" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XayagXvP-BVZ6n86eqcy-8" value="系统校验信息" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="212" y="540" width="150" height="150" as="geometry" />
         </mxCell>
@@ -94,15 +101,6 @@
         <mxCell id="XayagXvP-BVZ6n86eqcy-45" value="校验通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XayagXvP-BVZ6n86eqcy-44" connectable="0" vertex="1">
           <mxGeometry x="0.2101" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XayagXvP-BVZ6n86eqcy-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="XayagXvP-BVZ6n86eqcy-11" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="615" />
-            </Array>
-            <mxPoint x="362" y="615" as="sourcePoint" />
-            <mxPoint x="400" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BxD0tF_wl8rUfQ2usmUZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XayagXvP-BVZ6n86eqcy-77" target="XayagXvP-BVZ6n86eqcy-8">
