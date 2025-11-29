@@ -8,7 +8,7 @@
           <mxGeometry x="169" y="28" width="236" height="54" as="geometry" />
         </mxCell>
         <mxCell id="XayagXvP-BVZ6n86eqcy-2" value="选择操作类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="212" y="132" width="150" height="150" as="geometry" />
+          <mxGeometry x="210" y="130" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="XayagXvP-BVZ6n86eqcy-8" value="系统校验信息" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="212" y="540" width="150" height="150" as="geometry" />
@@ -114,10 +114,10 @@
         <mxCell id="XayagXvP-BVZ6n86eqcy-76" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1" source="XayagXvP-BVZ6n86eqcy-77">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="50" y="206" />
+              <mxPoint x="50" y="210" />
             </Array>
             <mxPoint x="50" y="244" as="sourcePoint" />
-            <mxPoint x="190" y="160" as="targetPoint" />
+            <mxPoint x="180" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XayagXvP-BVZ6n86eqcy-78" value="增加" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XayagXvP-BVZ6n86eqcy-76" connectable="0" vertex="1">
