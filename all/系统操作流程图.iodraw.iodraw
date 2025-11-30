@@ -86,7 +86,7 @@
         <mxCell id="L3rBm55KLTbBOQ-UupZX-25" value="输入学号或姓名&lt;div&gt;搜索成绩记录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L3rBm55KLTbBOQ-UupZX-26" value="显示完整的成绩管理功能（增删改查）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="L3rBm55KLTbBOQ-UupZX-26" value="填写表单增加&lt;div&gt;新的成绩记录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L3rBm55KLTbBOQ-UupZX-27" value="显示完整的成绩管理功能（增删改查）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
