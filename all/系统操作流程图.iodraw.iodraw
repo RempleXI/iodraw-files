@@ -66,6 +66,14 @@
         <mxCell id="L3rBm55KLTbBOQ-UupZX-16" value="仅显示查询和&lt;div&gt;统计功能&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="780" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="L3rBm55KLTbBOQ-UupZX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="L3rBm55KLTbBOQ-UupZX-19" target="L3rBm55KLTbBOQ-UupZX-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="490" />
+              <mxPoint x="840" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="L3rBm55KLTbBOQ-UupZX-19" value="显示错误信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="460" width="120" height="60" as="geometry" />
         </mxCell>
