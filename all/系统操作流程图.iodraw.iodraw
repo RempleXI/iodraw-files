@@ -215,6 +215,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="L3rBm55KLTbBOQ-UupZX-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="L3rBm55KLTbBOQ-UupZX-53" target="L3rBm55KLTbBOQ-UupZX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="997" />
+              <mxPoint x="210" y="997" />
+              <mxPoint x="210" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="L3rBm55KLTbBOQ-UupZX-53" value="安全退出系统&lt;div&gt;返回登录页面&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="1753.5" width="120" height="60" as="geometry" />
         </mxCell>
