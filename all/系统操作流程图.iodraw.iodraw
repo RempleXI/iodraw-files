@@ -207,8 +207,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L3rBm55KLTbBOQ-UupZX-53" value="系统返回处理结果并在界面展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="1480" width="120" height="60" as="geometry" />
+        <mxCell id="L3rBm55KLTbBOQ-UupZX-53" value="安全退出系统&lt;div&gt;返回登录页面&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="1753.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
