@@ -78,7 +78,10 @@
           <mxGeometry x="630" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L3rBm55KLTbBOQ-UupZX-23" value="根据用户角色显示&lt;div&gt;相应功能界面&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="305" y="620" width="150" height="100" as="geometry" />
+          <mxGeometry x="295" y="910" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="L3rBm55KLTbBOQ-UupZX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="L3rBm55KLTbBOQ-UupZX-13" target="L3rBm55KLTbBOQ-UupZX-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
