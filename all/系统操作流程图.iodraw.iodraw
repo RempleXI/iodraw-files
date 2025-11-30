@@ -93,7 +93,10 @@
           <mxGeometry x="707" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L3rBm55KLTbBOQ-UupZX-28" value="显示完整的成绩管理功能（增删改查）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="1110" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L3rBm55KLTbBOQ-UupZX-29" value="显示完整的成绩管理功能（增删改查）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
