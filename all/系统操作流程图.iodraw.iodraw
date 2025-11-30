@@ -36,7 +36,7 @@
         <mxCell id="L3rBm55KLTbBOQ-UupZX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="L3rBm55KLTbBOQ-UupZX-10" target="L3rBm55KLTbBOQ-UupZX-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L3rBm55KLTbBOQ-UupZX-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L3rBm55KLTbBOQ-UupZX-17">
+        <mxCell id="L3rBm55KLTbBOQ-UupZX-18" value="普通用户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L3rBm55KLTbBOQ-UupZX-17">
           <mxGeometry x="-0.3326" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="L3rBm55KLTbBOQ-UupZX-16" value="仅显示查询和&lt;div&gt;统计功能&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L3rBm55KLTbBOQ-UupZX-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
