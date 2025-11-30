@@ -182,6 +182,9 @@
         <mxCell id="L3rBm55KLTbBOQ-UupZX-41" value="系统处理用户请求并与数据库交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="L3rBm55KLTbBOQ-UupZX-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
