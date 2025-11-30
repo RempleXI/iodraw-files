@@ -56,10 +56,10 @@
         <mxCell id="FaIIUacGhDsI722xyBpT-10" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="330" width="20" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="FaIIUacGhDsI722xyBpT-11" value="用户&lt;div&gt;登录&lt;/div&gt;&lt;div&gt;验证&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FaIIUacGhDsI722xyBpT-11" value="会话控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="330" width="20" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="FaIIUacGhDsI722xyBpT-12" value="用户&lt;div&gt;登录&lt;/div&gt;&lt;div&gt;验证&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FaIIUacGhDsI722xyBpT-12" value="成绩查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="330" width="20" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FaIIUacGhDsI722xyBpT-13" value="用户&lt;div&gt;登录&lt;/div&gt;&lt;div&gt;验证&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
