@@ -149,6 +149,14 @@
         <mxCell id="L3rBm55KLTbBOQ-UupZX-27" value="选择记录并&lt;div&gt;修改相关信息&lt;/div&gt;（仅管理员）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="707" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="L3rBm55KLTbBOQ-UupZX-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="L3rBm55KLTbBOQ-UupZX-28" target="L3rBm55KLTbBOQ-UupZX-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="1400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="L3rBm55KLTbBOQ-UupZX-28" value="选择记录并&lt;div&gt;删除相关信息&lt;/div&gt;（仅管理员）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="900" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
