@@ -44,10 +44,15 @@
             <mxPoint x="420" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qhOhDNg-RRToMb5GKLOx-14" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qhOhDNg-RRToMb5GKLOx-12">
+          <mxGeometry x="0.2802" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qhOhDNg-RRToMb5GKLOx-11" value="B=3?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qhOhDNg-RRToMb5GKLOx-13" value="A&amp;gt;1?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qhOhDNg-RRToMb5GKLOx-13" value="a=2?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="420" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
