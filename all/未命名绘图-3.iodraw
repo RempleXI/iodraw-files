@@ -13,6 +13,9 @@
         <mxCell id="qhOhDNg-RRToMb5GKLOx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qhOhDNg-RRToMb5GKLOx-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="830" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qhOhDNg-RRToMb5GKLOx-10" value="假" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qhOhDNg-RRToMb5GKLOx-7">
