@@ -10,7 +10,7 @@
         <mxCell id="NFE54zh-7-F__6o1kK1G-1" value="借书人" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="240" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NFE54zh-7-F__6o1kK1G-2" value="出版社" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NFE54zh-7-F__6o1kK1G-2" value="借书" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="440" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
