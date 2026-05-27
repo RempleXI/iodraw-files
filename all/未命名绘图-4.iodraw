@@ -5,13 +5,13 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="NFE54zh-7-F__6o1kK1G-0" value="初版" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="300" width="100" height="80" as="geometry" />
+          <mxGeometry x="330" y="180" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NFE54zh-7-F__6o1kK1G-2" value="借阅" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="310" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NFE54zh-7-F__6o1kK1G-3" value="出版社" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NFE54zh-7-F__6o1kK1G-4" value="图书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="190" width="120" height="60" as="geometry" />
