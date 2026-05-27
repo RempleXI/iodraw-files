@@ -145,13 +145,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NFE54zh-7-F__6o1kK1G-33" value="出版社名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="460" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NFE54zh-7-F__6o1kK1G-34" value="电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="100" width="60" height="30" as="geometry" />
+          <mxGeometry x="530" y="555" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NFE54zh-7-F__6o1kK1G-35" value="邮编" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="600" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NFE54zh-7-F__6o1kK1G-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="550" as="sourcePoint" />
+            <mxPoint x="570" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
